@@ -4,7 +4,7 @@ html {
 
 .title-bar {
 	display: flex;
-	margin: 8px;
+	margin: 12px;
 	position: sticky;
 	top: 0;
 	justify-content: center;
@@ -25,6 +25,6 @@ img.artist {
 
 .link-box {
 	display: flex;
-	margin: 8px;
+	margin: 12px;
 	justify-content: center;
 }
