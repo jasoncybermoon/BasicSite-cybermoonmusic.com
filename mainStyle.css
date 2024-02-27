@@ -1,5 +1,10 @@
-html {
-	background-color: #070572;
+body, html {
+	height: 99%;
+	background-color: black;
+	background-image: url(blackpurpleBG.png);
+	background-size: cover;
+	background-position: top;
+	background-repeat: no-repeat;
 }
 
 .title-bar {
