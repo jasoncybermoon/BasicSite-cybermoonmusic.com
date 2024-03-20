@@ -28,8 +28,14 @@ img.artist {
 	height: 64px;
 }
 
+img.banner {
+	padding: 12px;
+	height: 192px;
+}
+
 .link-box {
 	display: flex;
 	margin: 12px;
+	height: 64px;
 	justify-content: center;
 }
